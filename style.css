@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo1{
+  width: 100px;
+  border-right: 1px solid rgb(173, 169, 169);
+  padding: 5px 20px 5px 15px;
+}
+.nav-item{
+    padding: 0px 20px;
+}
+.cont1{
+    height: 540px;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+}
+.cont1a{
+    background: white;
+    position: relative;
+}
+._11aa{
+    height: 540px;
+    width: 100% !important;
+}
+.arw{
+    width: 26px;
+    height: 30px;
+    margin-left: 50px;
+    
+}
+.btn h2{
+    font-size: 16px;
+}
+.btn{
+    border-radius: 0%;
+    height: 45px;
+    position: absolute;
+    bottom: 35px;
+    left: 50px;
+}
+.cont1a h1{
+    position: absolute;
+    width: 500px;
+    font-size: 40px;
+    top: 30px;
+    left: 50px;
+}
+
+.cont1a p{
+    position: absolute;
+    width: 500px;
+    font-size: 22px;
+    bottom: 86px;
+    left: 50px;
+}
+.cont2{
+    background: #111010;
+    height: 200px;
+    color: white;
+    position: relative;
+}
+.cont2 p{
+    width: 580px;
+    font-size: 26px;
+    position: absolute;
+    top: 35px;
+    left: 35px;
+}
+.btn1{
+    border-radius: 0%;
+    height: 45px;
+    position: absolute;
+    top: 35px;
+    left: 1050px;
+    width: 250px;
+}
+.btn1 h2{
+    font-size: 16px;
+}
